@@ -1,0 +1,10 @@
+﻿  Math.cpp
+  main.cpp
+  正在生成代码...
+main.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall Math::Min(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Min@Math@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)，函数 _main 中引用了该符号
+C:\WorkSoftware\DirectxSdk\Lib\x64\dxerr.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\WorkSoftware\DirectxSdk\Lib\x64\dxguid.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\WorkSoftware\DirectxSdk\Lib\x64\d3dx9d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\WorkSoftware\DirectxSdk\Lib\x64\d3dx10d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\WorkSoftware\DirectxSdk\Lib\x64\d3d9.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\Users\XIEJINGCHENG\source\repos\exper8First\Debug\exper8First.exe : fatal error LNK1120: 1 个无法解析的外部命令

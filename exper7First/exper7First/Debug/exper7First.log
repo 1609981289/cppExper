@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\XIEJINGCHENG\source\repos\exper7First\exper7First\Matrix.h(19,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\XIEJINGCHENG\source\repos\exper7First\exper7First\Matrix.h(21,27): warning C4018: “<”: 有符号/无符号不匹配
+  exper7First.vcxproj -> C:\Users\XIEJINGCHENG\source\repos\exper7First\Debug\exper7First.exe

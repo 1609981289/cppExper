@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\XIEJINGCHENG\source\repos\exper8Third\exper8Third\main.cpp(51,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\XIEJINGCHENG\source\repos\exper8Third\exper8Third\main.cpp(60,16): warning C4018: “<”: 有符号/无符号不匹配
+  exper8Third.vcxproj -> C:\Users\XIEJINGCHENG\source\repos\exper8Third\Debug\exper8Third.exe
